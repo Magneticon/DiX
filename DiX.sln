@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiX", "DiX.csproj", "{9B4F2E11-9A31-4B2A-8E77-123456789ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Debug|x64 = Debug|x64
+		Release|x86 = Release|x86
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Debug|x86.ActiveCfg = Debug|x86
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Debug|x86.Build.0 = Debug|x86
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Debug|x64.ActiveCfg = Debug|x64
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Debug|x64.Build.0 = Debug|x64
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Release|x86.ActiveCfg = Release|x86
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Release|x86.Build.0 = Release|x86
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Release|x64.ActiveCfg = Release|x64
+		{9B4F2E11-9A31-4B2A-8E77-123456789ABC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

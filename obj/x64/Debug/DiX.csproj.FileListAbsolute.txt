@@ -1,0 +1,5 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJ96\DiX_VS2010_1.0\bin\x64\Debug\DiX.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJ96\DiX_VS2010_1.0\bin\x64\Debug\DiX.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJ96\DiX_VS2010_1.0\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJ96\DiX_VS2010_1.0\obj\x64\Debug\DiX.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJ96\DiX_VS2010_1.0\obj\x64\Debug\DiX.pdb
